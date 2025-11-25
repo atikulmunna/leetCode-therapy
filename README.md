@@ -1,6 +1,6 @@
 # 🛋️ LeetCode Therapy
 
-> *"Forgive me, FAANG, for I have sinned. It has been three days since my last commit."*
+> *"Forgive me, FAANG, for I have sinned. I seek redemption through this daily grind."*
 
 
 
