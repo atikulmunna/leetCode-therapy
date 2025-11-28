@@ -17,16 +17,6 @@
 | **Hard** | 2 | 🌊 |
 | **Total** | **0** | **TBD** |
 
-## 📁 File Structure
-*(Organized by how much they hurt)*
-
-```text
-LeetCode-Therapy/
-├── Easy/     (The "I'm a genius" folder)
-├── Medium/   (The "Wait, let me think" folder)
-└── Hard/     (The "Why did I choose this career" folder)
 
 
-
----
-
+>**Note:** To make this repo a better learning resource, I have used **Gemini 3 Pro** to generate clear, step-by-step explanations for every solution and make the initial *ugly* codes look cleaner.
