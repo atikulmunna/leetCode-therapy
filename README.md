@@ -12,9 +12,9 @@
 ## 📊 Therapy Sessions (Progress)
 | Difficulty | Problems Solved | Tears Shed |
 | :--- | :---: | :---: |
-| **Easy** | 5 | 0L |
-| **Medium** | 13 | 0.2L |
-| **Hard** | 2 | 🌊 |
+| **Easy** | 10 | 0L |
+| **Medium** | 30 | 0.2L |
+| **Hard** | 10 | 🌊 |
 | **Total** | **0** | **TBD** |
 
 
