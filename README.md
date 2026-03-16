@@ -1,12 +1,11 @@
 # 🛋️ LeetCode Therapy
 
-## 📊 Therapy Sessions (Progress)
-| Difficulty | Problems Solved | Tears Shed |
-| :--- | :---: | :---: |
-| **Easy** | 15 | 0L |
-| **Medium** | 49 | 0.2L |
-| **Hard** | 16 | 🌊 |
-| **Total** | **0** | **TBD** |
+| Difficulty | Problems Solved | 
+| :--- | :---: | 
+| **Easy** | 19 | 
+| **Medium** | 62 |
+| **Hard** | 19 | 
+| **Total** | **100** | 
 
 
 
